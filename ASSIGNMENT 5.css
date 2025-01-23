@@ -1,0 +1,36 @@
+h1{
+    color: white;
+    text-align: center;
+}
+*{
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.onep{
+    text-align: center;
+}
+
+.find{
+    color: #F6F4EB;
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523");
+    background-repeat: no-repeat;
+    background-size:115% ;
+    height: 850px;
+    width: 350px;
+}
+.find2{
+    color: #F6F4EB;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.button1{
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    background-color: #F8A42D;
+}
+.find3{
+    font-size: 10px;
+    
+}
